@@ -4,5 +4,9 @@ public class Main {
         System.out.println("hamza!");
         System.out.println("gggg");
         System.out.println("hamza3");
+        System.out.println("gggg");
+        System.out.println("hamza3");
+        System.out.println("gggg");
+        System.out.println("hamza3");
     }
 }
